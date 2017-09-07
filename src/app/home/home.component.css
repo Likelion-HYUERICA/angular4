@@ -1,0 +1,16 @@
+.heading {
+	margin-top: -75px;
+	height: 750px;
+	background-image: linear-gradient(to bottom, transparent 0%, #4d4d4d 100%), url('../assets/bg-header.jpg');
+	background-size: cover;
+	background-position: center center;
+}
+
+.main-heading {
+	color: white;
+	font-weight: 200;
+}
+.typewrite {
+	color: #007bff;
+	display: inline;
+}

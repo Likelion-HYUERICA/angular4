@@ -9,3 +9,12 @@ html {
 	width: 100%;
 	height: 100%;
 }
+nav {
+
+	height: 75px;
+
+}
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+	opacity: 0.75;
+}
